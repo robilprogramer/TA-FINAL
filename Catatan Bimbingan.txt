@@ -1,9 +1,0 @@
-
-Catatan Bab 3
-
-1. Buat list Pertanyaaan seblum ketemuan dengan User untuk Melakukan Wawancara Terkait analisis kebutuhan sistem, observasi ,survei (Refind dari ahli pakar)
-2. Analisis Kebutuhan Sistem diadakan dengan 3 metode Wawancara,observasi,survei
-3. Flowchart atau design  detail tahapan penelitian sistem chatbot ini
-4. Diagram Percanngan Arsitektur Perancangan sistem
-5. Standart Format flowchart harus sesuai
-6. Pemelihan model sesuai dengan literatur yang ada
